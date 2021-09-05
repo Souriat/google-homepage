@@ -1,0 +1,1 @@
+Clone of Google Hompage, The Odin Project HTML/CSS skills practice
