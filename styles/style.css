@@ -1,0 +1,24 @@
+.header {
+background:chocolate;
+}
+
+.content {
+background:cornflowerblue;
+    
+}
+
+.footer {
+background:darkcyan;
+}
+
+.container {
+background:darkmagenta;
+font-size: 40px;
+width:100%
+
+}
+
+.center {
+    display: grid;
+    justify-self: center;
+}
